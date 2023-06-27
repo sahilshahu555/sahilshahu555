@@ -1,5 +1,5 @@
 <h2 align="center"></h2>
-  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/sahilshahu555" target="_blank" rel="noopener noreferrer">Sahil Shahu</a>.
+  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/sahilshahu555" target="_blank" rel="n">Sahil Shahu</a>.
 </h2>
 
 <p align="center">
