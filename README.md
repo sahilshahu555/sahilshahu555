@@ -76,5 +76,5 @@
     </a>
     <hr />
     <h2><a href="https://sahilshahu555.github.io/">🌍 | Portfolio </a></h2>
-
-    <h1>Thank You !</h1>
+<h1>Thank You !</h1>
+    
