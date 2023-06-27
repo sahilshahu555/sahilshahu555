@@ -44,7 +44,7 @@
 
 ## ✅ Github Stats :
 
-<div align="center" style="display: flex; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-direction: column;">
 
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=sahilshahu555&theme=neon&border_radius=2.7&show_icons=true" alt="sahil" />
   
